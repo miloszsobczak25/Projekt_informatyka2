@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="proba sfml/proba sfml.vcxproj" Id="6db0ce89-b06a-42ac-8216-dfa5ddc80b0b">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>
